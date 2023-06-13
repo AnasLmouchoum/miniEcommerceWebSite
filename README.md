@@ -1,2 +1,2 @@
 # ecommerceJee
-Our project for JEE class
+my project for JEE class it's about a mini project ecommerce website
